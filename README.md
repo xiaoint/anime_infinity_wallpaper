@@ -23,7 +23,7 @@ This application is designed to be set up once and then run quietly in the backg
 
 The easiest way to get started is to download the pre-compiled application from the latest release.
 
-1. Go to the **Releases Page** on this repository.
+1. Go to the **[Releases Page](https://github.com/xiaoint/anime_infinity_wallpaper/releases/tag/v1.0_Release)** on this repository.
 2. Download the `Infinity_Wallpaper_Setup.exe` file from the latest release.
 3. Run the installer. It will install the application, create a desktop shortcut, and add it to your Start Menu.
 
