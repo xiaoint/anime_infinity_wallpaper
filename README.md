@@ -1,5 +1,7 @@
 # anime_infinity_wallpaper
  Customize your desktop with an endless slideshow of high-quality images tailored to your tastes.
+ 
+![Preview](Screenshots/IMG_20250727_120206_406.png)
 
 **anime_infinity_wallpaper** is a powerful, feature-rich desktop application for Windows 11 that automatically fetches and sets beautiful anime-style wallpapers from the Danbooru image board. Customize your desktop with an endless slideshow of high-quality images tailored to your tastes.
 
